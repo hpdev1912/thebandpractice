@@ -168,7 +168,7 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center; */
-  background: url("/assets/img/slider1.jpg") top center / cover no-repeat;
+  background: url("../../assets/img/slider1.jpg") top center / cover no-repeat;
 
   position: relative;
   text-align: center;
